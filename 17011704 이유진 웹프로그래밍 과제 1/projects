@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="ko" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Projects</title>
+  </head>
+
+  <nav>
+      	<a href="main.html">메인화면</a>
+        <a href="drawing.html">Drawing</a>
+        <a href="projects.html">Projects</a>
+        <a href="겜하구싶덩">게임..하고싶다...</a>
+  </nav>
+
+  <body>
+<h2>Projects</h2>
+
+<h3>2017</h3>
+<ul>
+  <li>C프로그래밍</li>
+  <li>일반물리및시뮬레이션</li>
+</ul>
+<h3>2018</h3>
+<ul>
+  <li>SW설계기초</li>
+  <li>교내 SW해커톤</li>
+</ul>
+<h2>수상내역</h2>
+<ul>
+  <li>2017 제 4회 세종SW경시대회 3등</li>
+  <li>2018 제 5회 세종Sw경시대회 5등</li>
+</ul>
+
+  </body>
+
+
+</html>
